@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "description": "<h1>Backend Challenges boilerplate - package.json</h1>",
+  "description": "Backend Challenges boilerplate - package.json",
   "version": "1.0.0",
   "author": "Daniel Kissiedu",
   "license": "ISC"
